@@ -68,4 +68,4 @@ Features [1.2.1] [Minecraft 1.4.5]
   Dimensions
   ---------------------
     The Kringle:
-    Snow world. Has mint plants, candy polls, candy trees, and kringle trees. Kringle trees are huge world trees.
+    Snow world. Has mint plants, candy polls, candy trees, and kringle trees. Kringle trees are huge world trees. Use "/gotoKringle" to go to the Kringle.

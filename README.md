@@ -9,7 +9,7 @@ Christmas-Mod
 Features [1.2.1] [Minecraft 1.4.5]
 =============
   Blocks
-    ---------------------
+  ---------------------
     Mint:
     Mint spawns naturally in its 2-block form. It can also spawn as a crop in villages. Crops drop mint seeds and mint leaves. Naturally spawning mi
 
@@ -32,7 +32,7 @@ Features [1.2.1] [Minecraft 1.4.5]
     Four styles, crafted using other ice bricks and ice blocks (gathered with ice drill).
 
   Items
-    ---------------------
+  ---------------------
     Mint Leaf:
     Dropped by mint plants. Used to craftmint oil.
 
@@ -66,8 +66,3 @@ Features [1.2.1] [Minecraft 1.4.5]
   ---------------------
     The Kringle:
     Snow world. Has mint plants, candy polls, candy trees, and kringle trees. Kringle trees are huge world trees.
-
-
-
-
-

@@ -6,6 +6,9 @@ Christmas-Mod
     2. Delete meta-inf
     3. Paste in the mod
     4. Run Minecraft :)
+
+    Note:
+    DO NOT INSTALL WITH MOD LOADER. OTHER MODS MAY BE INCOMPATIBLE, JUST A WARNING. OTHER TEXTUREPACKS MAY LOOK GREY AND UGLY DO TO BLOCK COLORING RE-WRITE.
 Features [1.2.1] [Minecraft 1.4.5]
 =============
   Blocks

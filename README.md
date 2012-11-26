@@ -9,7 +9,7 @@ Christmas-Mod
 
     Note:
     DO NOT INSTALL WITH MOD LOADER. OTHER MODS MAY BE INCOMPATIBLE, JUST A WARNING. OTHER TEXTUREPACKS MAY LOOK GREY AND UGLY DO TO BLOCK COLORING RE-WRITE.
-Features [1.2.1] [Minecraft 1.4.5]
+Features [1.2.2] [Minecraft 1.4.5]
 =============
   Blocks
   ---------------------

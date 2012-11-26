@@ -26,13 +26,19 @@ Features [1.2.1] [Minecraft 1.4.5]
     Cool looking block. Can be dyed any color and can be hung on the side of a neighboring block of from the above block. Faces the player upon placing. Spawns on houses in villages.
 
     Snow Globe:
-    Has temporary texture. Will send player to the Kringle when looked at for long enough.
+    Looks Cool. Version made with diamond snowflake will send player to the Kringle when looked at for long enough.
 
     Candy Leaves:
     Do not degrade like normal leaves. Spawn on candy trees and kringle trees.
 
     Ice Bricks:
     Four styles, crafted using other ice bricks and ice blocks (gathered with ice drill).
+    
+    Candy Planks:
+    Planks from candy logs.
+    
+    Fire Place:
+    A flaming block that will not start fires or deal fire damage.
 
   Items
   ---------------------
@@ -56,6 +62,9 @@ Features [1.2.1] [Minecraft 1.4.5]
 
     Ice Drill:
     Used to gather ice blocks without silk touch.
+    
+    Snow Flakes:
+    Diamond and regular versions. Used to make snow globes.
 
   Mobs
   ---------------------

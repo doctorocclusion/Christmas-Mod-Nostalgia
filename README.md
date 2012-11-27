@@ -11,7 +11,7 @@ Christmas-Mod
 
     Note:
     DO NOT INSTALL WITH MOD LOADER. OTHER MODS MAY BE INCOMPATIBLE, JUST A WARNING. OTHER TEXTUREPACKS MAY LOOK GREY AND UGLY DO TO BLOCK COLORING RE-WRITE.
-Features [1.2.3] [Minecraft 1.4.5]
+Features [1.2.4] [Minecraft 1.4.5]
 =============
   Blocks
   ---------------------
@@ -44,6 +44,9 @@ Features [1.2.3] [Minecraft 1.4.5]
     
     Candy Beacon:
     Transports the player back to the overworld when stood on for long enough.
+    
+    Frosted Window Pane:
+    A frosty blue glass pane.
 
   Items
   ---------------------
@@ -82,4 +85,4 @@ Features [1.2.3] [Minecraft 1.4.5]
   Dimensions
   ---------------------
     The Kringle:
-    Snow world. Has mint plants, candy polls, candy trees, and kringle trees. Kringle trees are huge world trees. Use "/gotoKringle" to go to the Kringle.
+    Snow world. Has mint plants, candy polls, candy trees, and kringle trees. Kringle trees are huge world trees. Use "/gotoKringle" to go to and leave the Kringle. You can also leave using the candy beacons.

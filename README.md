@@ -1,5 +1,7 @@
 Christmas-Mod
 =============
+  [Recipes](https://github.com/eekysam/Christmas-Mod/wiki/Recipes)
+  
   Installation
   ---------------------
     1. Open Minecraft.jar
@@ -9,7 +11,7 @@ Christmas-Mod
 
     Note:
     DO NOT INSTALL WITH MOD LOADER. OTHER MODS MAY BE INCOMPATIBLE, JUST A WARNING. OTHER TEXTUREPACKS MAY LOOK GREY AND UGLY DO TO BLOCK COLORING RE-WRITE.
-Features [1.2.2] [Minecraft 1.4.5]
+Features [1.2.3] [Minecraft 1.4.5]
 =============
   Blocks
   ---------------------
@@ -39,6 +41,9 @@ Features [1.2.2] [Minecraft 1.4.5]
     
     Fire Place:
     A flaming block that will not start fires or deal fire damage.
+    
+    Candy Beacon:
+    Transports the player back to the overworld when stood on for long enough.
 
   Items
   ---------------------

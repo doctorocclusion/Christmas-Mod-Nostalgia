@@ -10,8 +10,28 @@ Installation
     2. Delete meta-inf
     3. Paste in the mod
     4. Run Minecraft :)
-  
-    Note:
+
+  More Details
+  ---------------------
+    Windows ME/95/98/XP:
+      Click start.
+      Click Run....
+      Type %AppData%.
+      Open .minecraft.
+      Open bin and you will see minecraft.jar (It may appear only as minecraft)..
+      Open the folder using an archive software (the most popular are 7zip and WinRar). To do this, right-click minecraft.jar and hover to the Open With menu.
+      Copy the class files into this folder. Exit the folder once you have copied the class files.
+      
+    Windows Vista/7:
+      Click the Start Icon.
+      In the Search Bar, type %AppData% and press Enter.
+      Open Roaming.
+      Open .minecraft.
+      Open bin and you will see minecraft.jar (It may appear only as minecraft).
+      Open the folder using an archive software (the most popular are 7zip and WinRar). To do this, right-click on minecraft.jar (note- if you don't have winzip,7rar.etc., go to control panel and find folder options, view and uncheck hide extensions for known file types. go back to minecraft.jar and rename it "minecraft.zip".don't forget to change the name back to minecraft.jar when you're done!) and hover to the Open With menu.
+      Copy the class files into this folder. Exit the folder once you have copied the class files.
+  Note
+  ---------------------
     DO NOT INSTALL WITH MOD LOADER. OTHER MODS MAY BE INCOMPATIBLE, JUST A WARNING. OTHER TEXTUREPACKS MAY LOOK GREY AND UGLY DO TO BLOCK COLORING RE-WRITE.
   
 Features [1.2.4] [Minecraft 1.4.5]

@@ -34,7 +34,7 @@ Installation
   ---------------------
     DO NOT INSTALL WITH MOD LOADER. OTHER MODS MAY BE INCOMPATIBLE, JUST A WARNING. OTHER TEXTUREPACKS MAY LOOK GREY AND UGLY DO TO BLOCK COLORING RE-WRITE.
   
-Features [1.2.4] [Minecraft 1.4.5]
+Features [1.2.5] [Minecraft 1.4.5]
 =============
   Blocks
   ---------------------
@@ -96,6 +96,9 @@ Features [1.2.4] [Minecraft 1.4.5]
     
     Snow Flakes:
     Diamond and regular versions. Used to make snow globes.
+    
+    Chocolate Milk and Hot Chocolate:
+    Yum Yum!
 
   Mobs
   ---------------------

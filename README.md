@@ -34,7 +34,7 @@ Installation
   ---------------------
     DO NOT INSTALL WITH MOD LOADER. OTHER MODS MAY BE INCOMPATIBLE, JUST A WARNING. OTHER TEXTUREPACKS MAY LOOK GREY AND UGLY DO TO BLOCK COLORING RE-WRITE.
   
-Features [1.2.5] [Minecraft 1.4.5]
+Features [1.3.0] [Minecraft 1.4.5]
 =============
   Blocks
   ---------------------
@@ -42,7 +42,7 @@ Features [1.2.5] [Minecraft 1.4.5]
     Mint spawns naturally in its 2-block form. It can also spawn as a crop in villages. Crops drop mint seeds and mint leaves. Naturally spawning mi
 
     Candy Workbench:
-    Will be used to craft candy, presently nonfunctional, BUT LOOKS COOL!
+    Used to craft candy
 
     Candy Log:
     Behaves like normal logs
@@ -103,10 +103,16 @@ Features [1.2.5] [Minecraft 1.4.5]
   Mobs
   ---------------------
     Candy Creeper:
-    Explodes 2/3 the size of normal creeper. Does not break blocks. Drops candy canes on detonation but not on being killed.
-    Spawning:
-      1/30 in OverWorld
-      1/1 in Kringle
+      Explodes 2/3 the size of normal creeper. Does not break blocks. Drops candy canes on detonation but not on being killed.
+      Spawning:
+        1/30 in OverWorld
+        1/1 in Kringle
+        
+      Penguins:
+        Awww...Cute!
+        
+      Ice Men:
+        The blaze's festive twin
 
   Dimensions
   ---------------------

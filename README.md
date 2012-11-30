@@ -70,6 +70,10 @@ Features [1.3.0] [Minecraft 1.4.5]
     
     Frosted Window Pane:
     A frosty blue glass pane.
+    
+    Candles:
+    3 different types: thin, normal, and fancy. Light value of 10/11. Can be placed on top of blocks. Can be made any color
+    
 
   Items
   ---------------------
@@ -99,6 +103,9 @@ Features [1.3.0] [Minecraft 1.4.5]
     
     Chocolate Milk and Hot Chocolate:
     Yum Yum!
+    
+    Ice Ball:
+    Throw it and observe why frosen water hurts!
 
   Mobs
   ---------------------

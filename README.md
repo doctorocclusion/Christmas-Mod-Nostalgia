@@ -34,12 +34,12 @@ Installation
   ---------------------
     DO NOT INSTALL WITH MOD LOADER. OTHER MODS MAY BE INCOMPATIBLE, JUST A WARNING. OTHER TEXTUREPACKS MAY LOOK GREY AND UGLY DO TO BLOCK COLORING RE-WRITE.
   
-Features [1.3.0] [Minecraft 1.4.5]
+Features [1.3.1] [Minecraft 1.4.5]
 =============
   Blocks
   ---------------------
     Mint:
-    Mint spawns naturally in its 2-block form. It can also spawn as a crop in villages. Crops drop mint seeds and mint leaves. Naturally spawning mi
+    Mint spawns naturally in its 2-block form. It can also spawn as a crop in villages. Crops drop mint seeds and mint leaves. Naturally spawning mint drops leaves and sometimes seeds
 
     Candy Workbench:
     Used to craft candy

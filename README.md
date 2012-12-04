@@ -74,6 +74,12 @@ Features [1.3.1] [Minecraft 1.4.5]
     Candles:
     3 different types: thin, normal, and fancy. Light value of 10/11. Can be placed on top of blocks. Can be made any color
     
+    Christmas Lights:
+    Multiple colors can be place on in a single block (see picture on forum). Turned on/off using light plug
+    
+    Light Plug:
+    Uses redstone to turn christmas lights on and off.
+    
 
   Items
   ---------------------
@@ -106,6 +112,9 @@ Features [1.3.1] [Minecraft 1.4.5]
     
     Ice Ball:
     Throw it and observe why frosen water hurts!
+    
+    Winter Armor:
+    Protects player form getting cold due to ice balls or exposure to the Kringle
 
   Mobs
   ---------------------
@@ -125,3 +134,8 @@ Features [1.3.1] [Minecraft 1.4.5]
   ---------------------
     The Kringle:
     Snow world. Has mint plants, candy polls, candy trees, and kringle trees. Kringle trees are huge world trees. Use "/gotoKringle" to go to and leave the Kringle. You can also leave using the candy beacons.
+    
+  Gameplay
+  ---------------------
+    Coldness:
+      Can cause dammage if it gets to high. Lowered by some foods. Some armor protects from getting cold.

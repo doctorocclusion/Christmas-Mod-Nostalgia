@@ -34,7 +34,7 @@ Installation
   ---------------------
     DO NOT INSTALL WITH MOD LOADER. OTHER MODS MAY BE INCOMPATIBLE, JUST A WARNING. OTHER TEXTUREPACKS MAY LOOK GREY AND UGLY DO TO BLOCK COLORING RE-WRITE.
   
-Features [1.3.1] [Minecraft 1.4.5]
+Features [1.4.0] [Minecraft 1.4.5]
 =============
   Blocks
   ---------------------
@@ -108,7 +108,7 @@ Features [1.3.1] [Minecraft 1.4.5]
     Diamond and regular versions. Used to make snow globes.
     
     Chocolate Milk and Hot Chocolate:
-    Yum Yum!
+    Yum Yum! Hot chocolate is great for warming up.
     
     Ice Ball:
     Throw it and observe why frosen water hurts!
@@ -138,4 +138,4 @@ Features [1.3.1] [Minecraft 1.4.5]
   Gameplay
   ---------------------
     Coldness:
-      Can cause dammage if it gets to high. Lowered by some foods. Some armor protects from getting cold.
+    Can cause dammage if it gets to high. Lowered by some foods. Some armor protects from getting cold.

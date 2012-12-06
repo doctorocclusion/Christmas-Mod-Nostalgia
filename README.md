@@ -6,11 +6,29 @@ Christmas-Mod
   
 Installation
 =============
-    1. Open Minecraft.jar
-    2. Delete meta-inf
-    3. Paste in the mod
-    4. Run Minecraft :)
-
+    1. Start Minecraft
+    2. Before logging in click "options"
+    3. Click "force update"
+    4. Log in
+    5. Once download is compleate, close minecraft
+    6. Open Minecraft.jar (in "C:\Users\[user]\AppData\Roaming\.minecraft")
+    7. Delete meta-inf
+    8. Paste in the mod
+    9. Run Minecraft :)
+    
+  Updating
+  ---------------------
+  
+    1. Start Minecraft
+    2. Before logging in click "options"
+    3. Click "force update"
+    4. Log in
+    5. Once download is compleate, close minecraft
+    6. Open Minecraft.jar (in "C:\Users\[user]\AppData\Roaming\.minecraft")
+    7. Delete meta-inf
+    8. Paste in the update
+    9. Run Minecraft :)
+    
   More Details
   ---------------------
     Windows ME/95/98/XP:

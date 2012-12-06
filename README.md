@@ -11,7 +11,7 @@ Installation
     3. Click "force update"
     4. Log in
     5. Once download is compleate, close minecraft
-    6. Open Minecraft.jar (in "C:\Users\[user]\AppData\Roaming\.minecraft")
+    6. Open Minecraft.jar (in "C:\Users\[user]\AppData\Roaming\.minecraft\bin")
     7. Delete meta-inf
     8. Paste in the mod
     9. Run Minecraft :)
@@ -24,7 +24,7 @@ Installation
     3. Click "force update"
     4. Log in
     5. Once download is compleate, close minecraft
-    6. Open Minecraft.jar (in "C:\Users\[user]\AppData\Roaming\.minecraft")
+    6. Open Minecraft.jar (in "C:\Users\[user]\AppData\Roaming\.minecraft\bin")
     7. Delete meta-inf
     8. Paste in the update
     9. Run Minecraft :)

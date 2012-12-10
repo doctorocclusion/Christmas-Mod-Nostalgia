@@ -98,6 +98,14 @@ Features [1.4.0] [Minecraft 1.4.5]
     Light Plug:
     Uses redstone to turn christmas lights on and off.
     
+    Heater:
+    Heats nearby players.
+    
+    Christmas Torch:
+    Torch crafted with kringle materials.
+    
+    Kringle Wart:
+    Festive mushrooms!
 
   Items
   ---------------------
@@ -133,6 +141,12 @@ Features [1.4.0] [Minecraft 1.4.5]
     
     Winter Armor:
     Protects player form getting cold due to ice balls or exposure to the Kringle
+    
+    Kringle Tools:
+    See "kringle materials" page in the wiki.
+    
+    Kringle Wart Stew:
+    Warms the player a bit.
 
   Mobs
   ---------------------

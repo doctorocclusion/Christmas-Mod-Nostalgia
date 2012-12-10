@@ -52,7 +52,7 @@ Installation
   ---------------------
     DO NOT INSTALL WITH MOD LOADER. OTHER MODS MAY BE INCOMPATIBLE, JUST A WARNING. OTHER TEXTUREPACKS MAY LOOK GREY AND UGLY DO TO BLOCK COLORING RE-WRITE.
   
-Features [1.4.0] [Minecraft 1.4.5]
+Features [1.5.2] [Minecraft 1.4.5]
 =============
   Blocks
   ---------------------
@@ -106,6 +106,9 @@ Features [1.4.0] [Minecraft 1.4.5]
     
     Kringle Wart:
     Festive mushrooms!
+    
+    Kringle Ores:
+    See "kringle materials" page in the wiki.
 
   Items
   ---------------------
@@ -147,6 +150,9 @@ Features [1.4.0] [Minecraft 1.4.5]
     
     Kringle Wart Stew:
     Warms the player a bit.
+    
+    Kringle Materials:
+    See "kringle materials" page in the wiki.
 
   Mobs
   ---------------------
